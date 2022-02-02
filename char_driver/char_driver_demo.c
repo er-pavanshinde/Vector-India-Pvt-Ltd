@@ -1,3 +1,10 @@
+/*
+###############################################################################
+Name		:	char_driver_demo.c
+Description	:	This Module is developed to understand the transfer of 
+			data from user-space to kernel-space.
+###############################################################################
+*/
 #include<linux/module.h>
 #include<linux/fs.h>
 #include<linux/uaccess.h>
