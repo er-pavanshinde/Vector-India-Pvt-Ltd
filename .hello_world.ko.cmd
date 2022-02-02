@@ -1,0 +1,1 @@
+cmd_/home/mascot/Desktop/WorkSpace/linux/hello_world.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/mascot/Desktop/WorkSpace/linux/hello_world.ko /home/mascot/Desktop/WorkSpace/linux/hello_world.o /home/mascot/Desktop/WorkSpace/linux/hello_world.mod.o

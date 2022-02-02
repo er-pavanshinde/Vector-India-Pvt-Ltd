@@ -1,0 +1,1 @@
+cmd_/home/mascot/Desktop/WorkSpace/linux/hello_module/built-in.o :=  rm -f /home/mascot/Desktop/WorkSpace/linux/hello_module/built-in.o; ar rcsD /home/mascot/Desktop/WorkSpace/linux/hello_module/built-in.o

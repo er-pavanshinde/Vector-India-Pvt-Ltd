@@ -1,0 +1,1 @@
+cmd_/home/mascot/Desktop/WorkSpace/linux/char_driver/built-in.o :=  rm -f /home/mascot/Desktop/WorkSpace/linux/char_driver/built-in.o; ar rcsD /home/mascot/Desktop/WorkSpace/linux/char_driver/built-in.o
