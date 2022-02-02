@@ -1,0 +1,2 @@
+Welcome to shell script
+Start to write the scripts

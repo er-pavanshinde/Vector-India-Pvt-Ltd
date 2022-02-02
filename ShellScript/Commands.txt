@@ -1,0 +1,49 @@
+commands used so far ...
+
+$ ls			// lists all the files and folders.
+
+$ ls /			// lists the files and folders present in root directory.
+
+$ ls -la		// lists the files and folders and even the hidden files and folders.
+
+$ ls -l 		// long listing the files and folders
+
+$ ll			// same
+
+$ ls -lia 		// Indode -> Physical blocks - delete,fill.
+
+Indode with long listing with hidden files and folders.
+
+Metadata for a directory 4096 bytes by default, space allocation of 4096 junk which includes . and .. folder 
+
+$ ls -ia		// inode first column
+
+$ cd 			// For moving from one directory to another directory.
+
+$ cd /			// Moving to root directory.
+
+$ pwd 			// shows the present working directory.
+  /
+
+$ ls -l 
+
+$ cd /home/mascot with tab to see the directories with multiple names.
+
+$ ls -lrt		// sorted way Date and timings , reverse order.
+
+$ ls -l -h		// size in gb,kb,mb
+
+$ while : 
+  do
+  echo "dksjflhlkjfgd" >> hello.txt
+  done
+
+$ ls -lh
+
+$ ls -lhrt		// h options the size of folders and files in gb,kb,mb
+
+$ exit 			// which closes the terminal 
+
+$ ctrl + d		// End of the input or terminate the console.
+
+$ sudo apt-get -y install konsole

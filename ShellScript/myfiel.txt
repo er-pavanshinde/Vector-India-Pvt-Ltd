@@ -1,0 +1,13 @@
+Insert Press		 i
+Command mode Press 	esc
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+vim is already the newest version.
+vim is already the newest version.
+The following packages were Automatically installed and are no longer required
+  account-plugin-windows-live libdbusmenu-gtk4 libqpdf13 libupstart1
+Use 'apt-get autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 11 not upgraded.
+
+This is a new line 

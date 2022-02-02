@@ -1,0 +1,25 @@
+Commands Used So far ...
+1.) pwd			// It shows the present working directory.
+2.) echo "hello world"	// Similar like printf(); or println.
+3.) echo * 		// Similar like 'ls' command.
+4.) echo '*'		// prints * astrick
+5.) echo "*"		// prints * astrick
+6.) tree		// It displays all the directories and files of particular folder.
+7.) cd /		// It takes to the root directory.
+8.) cd ..		// It takes to the previous directory.
+9.) cd -		// It flips to the home to pwd and vice versa.
+
+10.) cd 		// It takes from root to home directory.
+11.) chmod +x 		// To execute shell script.
+12.) echo $SHELL	// It shows the shell.
+13.) uname -a
+14.) hostname ,		// Gives hostname 
+     hostname -i,	// Gives ip address
+     hostname -I	// Gives ip address
+15.) ifconfig		// shows ip address , subnet mask etc...
+16.) fdisk /dev/sda -l	// shows all the disks.
+17.) sfdisk, gdisk
+18.) sudo parted 
+	list
+	print
+19.)
